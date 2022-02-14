@@ -1,7 +1,6 @@
-# FLASK
+# API PYTHON FLASK
 
-## Commencer
-Cet api permet de gérer une bibliothèque en listant les livres et les catégories
+API de gestion une bibliothèque en listant les livres et les catégories
 ### Installation des outils
 
 #### Python 3.10.2
