@@ -1,6 +1,6 @@
 # bibliotheque
 Livres
-##GET
+. ## GET/livres
 {
     "Livre_total": 2,
     "id_livre": [
@@ -26,7 +26,8 @@ Livres
     "statut": 200,
     "success": true
 }
-Categories
+
+. ## GET/livres
 {
     "categorie": [
         {
@@ -62,3 +63,14 @@ Categories
     "success": true,
     "total": 7
 }
+.##Get/livres/id 
+{
+    "auteur": "Romeo",
+    "categorie": 1,
+    "date_publication": "Thu, 04 Dec 2014 00:00:00 GMT",
+    "editeur": "Juliette",
+    "id ": 2,
+    "isbn": "z43",
+    "titre": "Bonsoir"
+}
+
